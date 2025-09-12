@@ -11,7 +11,7 @@
  * License:     GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Update URI:        http://www.daniellucia.es/
- * Text Domain:       delete-templates
+ * Text Domain:       dl-woo-sell-limit
  * Domain Path:       /languages
  */
 
