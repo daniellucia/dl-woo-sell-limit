@@ -51,7 +51,7 @@ require_once $autoload_file;
 define('DL_WOO_SELL_LIMIT_VERSION', '0.0.1');
 define('DL_WOO_SELL_LIMIT_FILE', __FILE__);
 
-add_action('plugins_loaded', function () {
+add_action('init', function () {
 
     load_plugin_textdomain('dl-woo-sell-limit', false, dirname(plugin_basename(__FILE__)) . '/languages');
 
